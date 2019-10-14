@@ -1,5 +1,5 @@
 [![npm (scoped)](https://img.shields.io/npm/v/@tuseto/limit-input-amount)](https://www.npmjs.com/package/@tuseto/limit-input-amount)
-@tuseto/limit-numeric-inputs-amount
+@tuseto/limit-input-amount
 
 # Limit numeric inputs sum
 
@@ -30,5 +30,5 @@ limitSum.init();
 
 ### Installing
 ```
-npm install @tuseto/limit-numeric-inputs-amount
+npm install @tuseto/limit-input-amount
 ```
