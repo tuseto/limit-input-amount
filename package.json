@@ -1,6 +1,6 @@
 {
   "name": "@tuseto/limit-input-amount",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Limit multiple grouped numeric inputs sum to given amount",
   "license": "MIT",
   "repository": "tuseto/limit-input-amount",
