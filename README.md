@@ -1,4 +1,4 @@
-[![npm (scoped)](https://img.shields.io/npm/v/@tuseto/limit-inputs-amount)](https://www.npmjs.com/package/@tuseto/limit-inputs-amount)
+[![npm (scoped)](https://img.shields.io/npm/v/@tuseto/limit-input-amount)](https://www.npmjs.com/package/@tuseto/limit-input-amount)
 @tuseto/limit-numeric-inputs-amount
 
 # Limit numeric inputs sum
