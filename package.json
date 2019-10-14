@@ -1,0 +1,15 @@
+{
+  "name": "@tuseto/limit-input-amount",
+  "version": "1.0.0",
+  "description": "Limit multiple grouped numeric inputs sum to given amount",
+  "license": "MIT",
+  "repository": "tuseto/limit-input-amount",
+  "main": "/lib/index.js",
+  "keywords": [
+    "limit-inputs",
+    "limit-numeric",
+    "npm",
+    "package",
+    "tuseto"
+  ]
+}
