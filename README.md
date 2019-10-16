@@ -7,11 +7,11 @@ Limit group of number inputs to maximum sum. Response can be alert or custom htm
 
 ## Getting Started
 
-You can limit multipul html inputs to given number. To do this you need to specify pointer to the form container, group container (because you can have many groups consist many inputs, this way you limit every group on his own),
+You can limit multiple html inputs to given sum. To do this you need to specify pointer to the form container, group container (because you can have many groups containing many inputs, this way you limit every group on its own) and
 input container. Also you can add your html for the response message.
 
 Give examples
-```
+```js
 let limitSum = new LimitSum({
 	limit: 100, //maximum limit of the sum of input fields (required)
 	form: '#email-provider', //the form containing observed fields (works for 1 form per page) (required)
@@ -29,6 +29,5 @@ limitSum.init();
 ```
 
 ### Installing
-```
-npm install @tuseto/limit-input-amount
-```
+
+`npm install @tuseto/limit-input-amount`
