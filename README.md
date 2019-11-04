@@ -12,7 +12,10 @@ input container. Also you can add your html for the response message.
 
 Give examples
 ```js
-let limitSum = new window.limitSum({
+
+import {LimitFinalSum} from '@tuseto/limit-input-amount/lib/index.js';
+
+let limitInput = new LimitFinalSum({
 	limit: 100, //maximum limit of the sum of input fields (required)
 	form: '#email-provider', //the form containing observed fields (works for 1 form per page) (required)
 	group: '.sum-limit', //group of inputs that is limit for (multiple groups) (required)
@@ -25,7 +28,7 @@ let limitSum = new window.limitSum({
 	}
 });
 
-limitSum.init();
+limitInput.init();
 ```
 
 ### Installing
